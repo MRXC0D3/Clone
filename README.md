@@ -1,4 +1,4 @@
-### CAF
+### Clone
 
 tools to clone old account facebook
 
@@ -36,4 +36,8 @@ tools to clone old account facebook
 
       python run.py
 
-note: hasil ijo gk ngejamin akun bakalan gk cp
+### Follow my Sosisal media
+
+
+
+    https://www.facebook.com/stickyfingas.stickyfingas
